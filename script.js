@@ -1,8 +1,9 @@
 function showDetails(title, technologies, description) {
 
-  const popup = document.createElement('div');
+  // Create popup background
+  const popup = document.createElement("div");
 
-  popup.className = 'popup-container';
+  popup.className = "popup-container";
 
   popup.innerHTML = `
 
@@ -14,7 +15,9 @@ function showDetails(title, technologies, description) {
 
       <p>${description}</p>
 
-      <button onclick="closePopup()">Close</button>
+      <button onclick="closePopup()">
+        Close
+      </button>
 
     </div>
 
@@ -25,7 +28,7 @@ function showDetails(title, technologies, description) {
 
 function closePopup() {
 
-  const popup = document.querySelector('.popup-container');
+  const popup = document.querySelector(".popup-container");
 
   if (popup) {
     popup.remove();
