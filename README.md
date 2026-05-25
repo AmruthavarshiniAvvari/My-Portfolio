@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 Welcome to my personal portfolio website repository.  
-This project showcases my skills, projects, resume, and contact information as a Java Full stack developer.
+This project showcases my skills, projects, resume, and contact information as a Java Full Stack Developer.
 
 ---
 
@@ -30,14 +30,15 @@ This project showcases my skills, projects, resume, and contact information as a
 ## 📂 Project Structure
 
 ```bash
-my portfolio/
+my-portfolio/
 │
-├── index.html 
+├── index.html
 ├── style.css
 ├── script.js
-├── screenshots
+├── screenshots/
 ├── JavaFullStackDeveloper.pdf
 └── README.md
+```
 
 ---
 
@@ -68,22 +69,22 @@ my portfolio/
 
 ---
 
-### 🛠️ Experience Section
+### 💼 Experience Section
 ![Experience Section](screenshots/Experience.png)
 
 ---
 
-### 🛠️ Certifications Section
-![Certificatons Section](screenshots/Certifications.png)
+### 🏆 Certifications Section
+![Certifications Section](screenshots/Certifications.png)
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Amrutha varshini Avari
+Amrutha Varshini Avvari
 
 ---
 
-📬 Contact
-GitHub: https://github.com/AmruthavarshiniAvvari
+## 📬 Contact
 
+- GitHub: https://github.com/AmruthavarshiniAvvari
