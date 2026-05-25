@@ -35,7 +35,7 @@ my portfolio/
 ├── index.html 
 ├── style.css
 ├── script.js
-├── screenshots/
+├── screenshots
 ├── JavaFullStackDeveloper.pdf
 └── README.md
 
