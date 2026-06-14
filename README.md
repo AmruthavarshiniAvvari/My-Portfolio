@@ -5,6 +5,11 @@ This project showcases my skills, projects, resume, and contact information as a
 
 ---
 
+## Live Demo 
+
+https://amruthavarshiniavvari.github.io/My-Portfolio/
+
+
 ## 🚀 Technologies Used
 
 - HTML5
